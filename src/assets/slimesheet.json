@@ -1,0 +1,187 @@
+{"frames": {
+
+"slime-attack-0.png":
+{
+	"frame": {"x":0,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-attack-1.png":
+{
+	"frame": {"x":32,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-attack-2.png":
+{
+	"frame": {"x":64,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-attack-3.png":
+{
+	"frame": {"x":96,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-attack-4.png":
+{
+	"frame": {"x":128,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-die-0.png":
+{
+	"frame": {"x":160,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-die-1.png":
+{
+	"frame": {"x":192,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-die-2.png":
+{
+	"frame": {"x":224,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-die-3.png":
+{
+	"frame": {"x":256,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-hurt-0.png":
+{
+	"frame": {"x":288,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-hurt-1.png":
+{
+	"frame": {"x":320,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-hurt-2.png":
+{
+	"frame": {"x":352,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-hurt-3.png":
+{
+	"frame": {"x":384,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-idle-0.png":
+{
+	"frame": {"x":416,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-idle-1.png":
+{
+	"frame": {"x":448,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-idle-2.png":
+{
+	"frame": {"x":480,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-idle-3.png":
+{
+	"frame": {"x":512,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-move-0.png":
+{
+	"frame": {"x":544,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-move-1.png":
+{
+	"frame": {"x":576,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-move-2.png":
+{
+	"frame": {"x":608,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+},
+"slime-move-3.png":
+{
+	"frame": {"x":640,"y":0,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":25},
+	"sourceSize": {"w":32,"h":25}
+}},
+"animations": {
+	"slime-attack": ["slime-attack-0.png","slime-attack-1.png","slime-attack-2.png","slime-attack-3.png","slime-attack-4.png"],
+	"slime-die": ["slime-die-0.png","slime-die-1.png","slime-die-2.png","slime-die-3.png"],
+	"slime-hurt": ["slime-hurt-0.png","slime-hurt-1.png","slime-hurt-2.png","slime-hurt-3.png"],
+	"slime-idle": ["slime-idle-0.png","slime-idle-1.png","slime-idle-2.png","slime-idle-3.png"],
+	"slime-move": ["slime-move-0.png","slime-move-1.png","slime-move-2.png","slime-move-3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "slimesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":672,"h":25},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6f7c4ddc2040ecf81fc9afb9cf6be33f:2679dd79463cef551fff7d36e2ec2af1:38c7f177d6e431554edc8efca8c357c5$"
+}
+}
